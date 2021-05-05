@@ -11,7 +11,7 @@ If I get a chance of creating some silly tool that will automate my life, I'll t
 
 Right now I'm mostly working in making a [platform](https://github.com/Projeto-USPY/) for USP students to seek information about professors and subjects.
 
-Also I'm currently a Backend Developer Internet at iFood 🌮
+Also I'm currently a Backend Developer Intern at iFood 🌮
 
 ### What are my main programming languages? 🖥️
 

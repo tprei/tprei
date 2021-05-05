@@ -2,7 +2,7 @@
 
 ### Who am I? 🤔
 
-My name is Thiago. I'm 20 y.o. Computer Science Student at the University of São Paulo (USP) in São Carlos.
+My name is Thiago. I'm a 20 y.o. Computer Science Student at the University of São Paulo (USP) in São Carlos.
 
 ### What do I do? 👷
 

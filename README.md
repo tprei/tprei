@@ -16,7 +16,7 @@ Also I'm currently a Backend Developer Intern at iFood 🌮
 ### What are my main programming languages? 🖥️
 
 - I like **Python** 🐍 for making proof of concepts, quick scripting and webscraping.
-- I like **Go** 🐹 because its very practical to make web servers, microsservices and CLIs.
+- I like **Go** 🐹 because its very practical to make web servers, microservices and CLIs.
 - I like **C++**  for solving Algorithms and Data Structures problems 😛
 
 <!--

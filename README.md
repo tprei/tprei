@@ -2,7 +2,7 @@
 
 ### Who am I? 🤔
 
-My name is Thiago. I'm a 20 y.o. Computer Science Student at the University of São Paulo (USP) in São Carlos.
+My name is [Thiago](https://prei.work). I'm a 20 y.o. Computer Science Student at the University of São Paulo (USP) in São Carlos.
 
 ### What do I do? 👷
 
@@ -18,6 +18,8 @@ I've done a lot of Freelancing @ Upwork and I'm currently a Backend Developer In
 - I like **Python** 🐍 for making proof of concepts, quick scripting and webscraping.
 - I like **Go** 🐹 because its very practical to make web servers, microservices and CLIs.
 - I like **C++**  for solving Algorithms and Data Structures problems 😛
+
+#### Checkout my [portfolio](https://prei.work)!
 
 <!--
 **tprei/tprei** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,22 +2,25 @@
 
 ### Who am I? 🤔
 
-My name is [Thiago](https://prei.work). I'm a 20 y.o. Computer Science Student at the University of São Paulo (USP) in São Carlos.
+My name is [Thiago](https://prei.work). I'm a 21 y.o. Computer Science Student at the University of São Paulo (USP) in São Carlos.
 
 ### What do I do? 👷
 
 I am very passionate about toy projects. 
-If I get a chance of creating some silly tool that will automate my life, I'll take it. So I have had many projects in the past (many of them had no future)
+If I get a chance of creating some silly tool that will automate my life, I'll take it. So I have had many projects in the past (many of them had no future but I have learned a lot!)
 
 Right now I'm mostly working in making a [platform](https://github.com/Projeto-USPY/) for USP students to seek information about professors and subjects.
 
-I've done a lot of Freelancing @ Upwork and I'm currently a Backend Developer Intern @ iFood 🌮
+I've done a lot of Freelancing @ Upwork and I'm currently a Software Developer @ iFood 🌮
 
-### What are my main programming languages? 🖥️
+### What are my main tools? 🖥️
 
 - I like **Python** 🐍 for making proof of concepts, quick scripting and webscraping.
 - I like **Go** 🐹 because its very practical to make web servers, microservices and CLIs.
 - I like **C++**  for solving Algorithms and Data Structures problems 😛
+- I also have experience with GCP, AWS, Docker, GitHub Automation (CI/CD), SQL and other things!
+
+Currently learning more about the JS/TS ecosystem and Frontend Development to try and become a versatile developer!
 
 #### Checkout my [portfolio](https://prei.work)!
 

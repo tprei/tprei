@@ -2,7 +2,7 @@
 
 ### Who am I? 🤔
 
-My name is Thiago. I'm 23 y.o. and a BSc. in Computer Science at the University of São Paulo (USP).
+My name is Thiago. I'm 24 y.o. and a BSc. in Computer Science at the University of São Paulo (USP).
 
 ### What do I do? 👷
 
